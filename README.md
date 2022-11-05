@@ -5,4 +5,6 @@ python program to verify the log of (eater_id,foodmenu_id) of hotel to evaluate 
 
 1) I created two python files , one files contains the main application code and another file is for testing the application code.
 2) Here I took log.txt which contains unique eater_id and unique foodmenu_id as i mentioned in the code.
-3) Docker file is attached to create a docker image.
+3) error_log.txt contains some duplicate values.It show error.
+4) Docker file is attached to create a docker image.
+5) Docker file run the testing python file.
