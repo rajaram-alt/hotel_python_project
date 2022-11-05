@@ -1,5 +1,5 @@
 # hotel_python_project
-python program to verify the log of (eater_id,foodmenu_id) of hotel to evaluate the top food menus
+python program to verify the log of (eater_id,foodmenu_id) of hotel to evaluate the top three food menus.
 
 # Process to run the program
 
